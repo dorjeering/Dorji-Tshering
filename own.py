@@ -1,4 +1,4 @@
-
+print()
 n = input("Name: ")
 a = int(input("Age: "))
 c = input("Course: ")
@@ -12,3 +12,4 @@ print("Course: ", c)
 print("Year: ", y)
 print("Present Address: ",p)
 print("Permanent Address: ", pa)
+print()
